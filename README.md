@@ -50,11 +50,7 @@ Rigorously benchmarked across 100 random 3-SAT instances at the critical density
 
 ```text
 ADL-SAT/
-├── include/
-│   └── adl_sat.hpp        # Core solver declarations & 2-adic valuation logic
-├── src/
-│   ├── adl_sat.cpp        # Cavity updates, decimation phase, and WalkSAT engine
-│   └── main.cpp           # CLI driver, DIMACS parser, and benchmark runner
-├── CMakeLists.txt         # Modern C++20 build configuration
-├── LICENSE                # MIT Open Source License
-└── README.md
+├── .gitignore
+├── LICENSE
+├── README.md
+├── main.cpp
