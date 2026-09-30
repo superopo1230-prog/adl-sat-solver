@@ -1,0 +1,16 @@
+# Build & Binaries
+build/
+bin/
+*.o
+*.obj
+*.exe
+adl_sat
+
+# IDEs
+.vscode/
+.idea/
+.vs/
+
+# OS Files
+.DS_Store
+Thumbs.db
